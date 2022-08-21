@@ -1,0 +1,16 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\ref\Exercício 06.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\bin\Debug\net5.0\Exercício 06.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\ref\Exercício 06.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Lista 01\Exercício 06\obj\Debug\net5.0\Exercício 06.genruntimeconfig.cache
