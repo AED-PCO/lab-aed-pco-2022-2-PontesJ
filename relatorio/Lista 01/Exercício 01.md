@@ -12,4 +12,4 @@ Faça um programa que mostre os números de 1000 a 9999 que possuem essa caracte
 
 ## <a href="/codigo\Lista 01\Exercício 01\Program.cs">Resolução</a>
 
-![Lista 01 - Exercício 01](/img/Lista%2001%20-%20Exerc%C3%ADcio%2001.png)
+![Lista 01 - Exercício 01](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2001.png)

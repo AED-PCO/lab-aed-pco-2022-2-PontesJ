@@ -4,4 +4,4 @@ Escreva um método recursivo que calcule a soma dos elementos de valor par de um
 
 ## <a href="/codigo\Lista 02\Exercício 05\Program.cs">Resolução</a>
 
-![Lista 02 - Exercício 05](/img/Lista%2002%20-%20Exerc%C3%ADcio%2005.png)
+![Lista 02 - Exercício 05](/relatorio/img/Lista%2002%20-%20Exerc%C3%ADcio%2005.png)

@@ -7,4 +7,4 @@ Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 
 ## <a href="/codigo\Lista 01\Exercício 03\Program.cs">Resolução</a>
 
-![Lista 01 - Exercício 03](/img/Lista%2001%20-%20Exerc%C3%ADcio%2003.png)
+![Lista 01 - Exercício 03](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2003.png)

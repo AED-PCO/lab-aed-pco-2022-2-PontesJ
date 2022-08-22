@@ -10,6 +10,6 @@ Faça um programa que liste os números perfeitos de 1 a 1000.
 
 ## <a href="/codigo\Lista 01\Exercício 02\Program.cs">Resolução</a>
 
-![Lista 01 - Exercício 02 - Parte 01](/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2001.png)
-![Lista 01 - Exercício 02 - Parte 01](/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2002.png)
-![Lista 01 - Exercício 02 - Parte 01](/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2003.png)
+![Lista 01 - Exercício 02 - Parte 01](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2001.png)
+![Lista 01 - Exercício 02 - Parte 01](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2002.png)
+![Lista 01 - Exercício 02 - Parte 01](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2002%20-%20Parte%2003.png)

@@ -4,4 +4,4 @@ Uma multiplicação pode ser vista como uma sequência de somas. Escreva um mét
 
 ## <a href="/codigo\Lista 02\Exercício 02\Program.cs">Resolução</a>
 
-![Lista 02 - Exercício 02](/img/Lista%2002%20-%20Exerc%C3%ADcio%2002.png)
+![Lista 02 - Exercício 02](/relatorio/img/Lista%2002%20-%20Exerc%C3%ADcio%2002.png)

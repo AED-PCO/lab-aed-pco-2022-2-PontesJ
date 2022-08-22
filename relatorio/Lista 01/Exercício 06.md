@@ -5,4 +5,4 @@ Utilize passagem de parâmetros por referência.
 
 ## <a href="/codigo\Lista 01\Exercício 06\Program.cs">Resolução</a>
 
-![Lista 01 - Exercício 06](/img/Lista%2001%20-%20Exerc%C3%ADcio%2006.png)
+![Lista 01 - Exercício 06](/relatorio/img/Lista%2001%20-%20Exerc%C3%ADcio%2006.png)
