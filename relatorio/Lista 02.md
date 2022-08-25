@@ -48,7 +48,7 @@ Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem n
 
 # Exercício Extra
 
-Escreva um método recursivo que encontre uma determinada posição na sequência de fibonacci.
+Escreva um método recursivo que encontre uma determinada posição na sequência de Fibonacci.
 
 ## <a href="/codigo\Lista 02\Exercício Extra\Program.cs">Resolução</a>
 
