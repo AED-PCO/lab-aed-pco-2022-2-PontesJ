@@ -7,7 +7,7 @@ namespace Exercício_02
         static int mult(int x, int y)
         {
             int aux;
-            if (y == 0) return (0);
+            if (y == 0) return 0;
             if (y < 0) aux = x * -1 + mult(x, y + 1);
             else aux = x + mult(x, y - 1);
             return (aux);
