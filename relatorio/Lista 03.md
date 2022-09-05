@@ -16,7 +16,7 @@ Escreva um método recursivo realizando a ordenação binária sem usar posiçã
 
 ## <a href="/codigo\Lista 03\Exercício 02\Program.cs">Resolução</a>
 
-![Lista 03 - Exercício 02](/relatorio/img/)
+![Lista 03 - Exercício 02](/relatorio/img/Lista%2003%20-%20Exerc%C3%ADcio%2002.png)
 
 # Exercício 03
 

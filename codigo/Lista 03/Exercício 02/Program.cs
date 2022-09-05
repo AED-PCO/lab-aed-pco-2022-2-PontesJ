@@ -44,9 +44,15 @@ namespace Exercício_02
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("\n================================");
+            Console.WriteLine("Exercício 02");
             int[] vetor = new int[6] { 5, 2, 7, 4, 1, 0 };
-            organizar(vetor, 0, 5);
+            Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
+            organizar(vetor, 0, 5);
+            Console.Write("\nOrganizado fica: ");
+            for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
+            Console.WriteLine("\n================================\n");
         }
     }
 }
