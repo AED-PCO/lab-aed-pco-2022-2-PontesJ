@@ -30,10 +30,7 @@ namespace Exercício_02
                 for (int i = 1; i <= 1000; i++)
                 {
                     int soma = 0;
-                    for (int k = i; k > 0; k--)
-                    {
-                        if (i % k == 0 && k != i) soma += k;
-                    }
+                    for (int k = i; k > 0; k--) if (i % k == 0 && k != i) soma += k;
                     if (soma == i) Console.WriteLine(i);
                 }
                 Console.WriteLine("================================");
@@ -45,10 +42,7 @@ namespace Exercício_02
                 for (int i = 2; i <= 1000; i++)
                 {
                     int primo = 0;
-                    for (int k = i; k > 0; k--)
-                    {
-                        if (i % k == 0) primo++;
-                    }
+                    for (int k = i; k > 0; k--) if (i % k == 0) primo++;
                     if (primo == 2) Console.Write(i + ", ");
                 }
                 Console.WriteLine("\n================================");

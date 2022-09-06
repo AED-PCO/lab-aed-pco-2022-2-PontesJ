@@ -8,10 +8,7 @@ namespace Exercício_05
         {
             if (N >= 0)
             {
-                if (N == 0)
-                {
-                    Console.WriteLine("\nO fatorial de 0 é: 1");
-                }
+                if (N == 0) Console.WriteLine("\nO fatorial de 0 é: 1");
                 else
                 {
                     int Cont = N;

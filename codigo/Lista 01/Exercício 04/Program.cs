@@ -13,20 +13,14 @@ namespace Exercício_04
             Console.WriteLine("Soma Linhas\n");
             for (int i = 0; i < Matriz.GetLength(0); i++)
             {
-                for (int j = 0; j < Matriz.GetLength(1); j++)
-                {
-                    somaL += Matriz[i, j];
-                }
+                for (int j = 0; j < Matriz.GetLength(1); j++) somaL += Matriz[i, j];
                 Console.WriteLine("A soma da {0}° linha é {1}", i + 1, somaL);
                 somaL = 0;
             }
             Console.WriteLine("\nSoma Colunas\n");
             for (int i = 0; i < Matriz.GetLength(1); i++)
             {
-                for (int j = 0; j < Matriz.GetLength(0); j++)
-                {
-                    somaC += Matriz[j, i];
-                }
+                for (int j = 0; j < Matriz.GetLength(0); j++) somaC += Matriz[j, i];
                 Console.WriteLine("A soma da {0}° coluna é {1}", i + 1, somaC);
                 somaC = 0;
             }

@@ -32,21 +32,9 @@ namespace Exercício_03
                 dif = 0;
             }
             Console.WriteLine("\nOs elementos em comum entre A e B são:");
-            for (int i = 0; i < C.Length; i++)
-            {
-                if (C[i] != 0)
-                {
-                    Console.WriteLine(C[i]);
-                }
-            }
+            for (int i = 0; i < C.Length; i++) if (C[i] != 0) Console.WriteLine(C[i]);
             Console.WriteLine("\nOs elementos existentes em A que não existem em B são:");
-            for (int i = 0; i < D.Length; i++)
-            {
-                if (D[i] != 0)
-                {
-                    Console.WriteLine(D[i]);
-                }
-            }
+            for (int i = 0; i < D.Length; i++) if (D[i] != 0) Console.WriteLine(D[i]);
             Console.WriteLine("================================");
         }
     }
