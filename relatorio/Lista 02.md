@@ -42,7 +42,7 @@ Escreva um método recursivo que receba uma frase e uma letra como parâmetros. 
 
 Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos.
 
-<sup>**Explicação:** O programa imprime a soma dos números pares de um vetor chamando uma função, enviando o vetor e seu tamanho. Na função se compara o tamanho do vetor com 0 e se forem iguais a função retorna 0. Logo depois a função procura se o ultimo valor do vetor é divisível por 2, se for retorna o número mais a chamada da função enviando o vetor com seu tamanho reduzido em 1. Por fim retorna a chamada da função enviando o vetor com seu tamanho reduzido em 1. </sup>
+<sup>**Explicação:** O programa imprime a soma dos números pares de um vetor chamando uma função, enviando o vetor e seu tamanho. Na função se compara o tamanho do vetor com 0 e se forem iguais a função retorna 0. Logo depois a função procura se o ultimo valor do vetor é divisível por 2, se for retorna o número mais a chamada da função enviando o vetor com seu tamanho reduzido em 1. Por fim retorna a chamada da função enviando o vetor com seu tamanho reduzido em 1.</sup>
 
 ## <a href="/codigo\Lista 02\Exercício 05\Program.cs">Resolução</a>
 
@@ -62,7 +62,7 @@ Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem n
 
 Escreva um método recursivo que encontre uma determinada posição na sequência de Fibonacci.
 
-<sup>**Explicação:** O programa pede ao usuário que digite a posição que deseja encontrar, logo depois imprime o número correspondente chamando a função. Na função se compara o número com igual ou menor que 0, e se for retorna 0. Logo depois compara o número com 1, e se forem iguais retorna 1. Por fim, retorna a chamada da função enviando o número menos 1 mais, a chamada da função enviando o número menos 2. </sup>
+<sup>**Explicação:** O programa pede ao usuário que digite a posição que deseja encontrar, logo depois imprime o número correspondente chamando a função. Na função se compara o número com igual ou menor que 0, e se for retorna 0. Logo depois compara o número com 1, e se forem iguais retorna 1. Por fim, retorna a chamada da função enviando o número menos 1 mais, a chamada da função enviando o número menos 2.</sup>
 
 ## <a href="/codigo\Lista 02\Exercício Extra\Program.cs">Resolução</a>
 
