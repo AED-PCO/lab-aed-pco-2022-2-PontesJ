@@ -1,0 +1,32 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\bin\Debug\net5.0\Merge Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\refint\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\Merge Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Merge Sort\obj\Debug\net5.0\ref\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\bin\Debug\net5.0\Merge Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\refint\Merge Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\Merge Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Merge Sort\obj\Debug\net5.0\ref\Merge Sort.dll

@@ -1,0 +1,32 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\bin\Debug\net5.0\Selection Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\refint\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\Selection Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Selection Sort\obj\Debug\net5.0\ref\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\bin\Debug\net5.0\Selection Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\refint\Selection Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\Selection Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Selection Sort\obj\Debug\net5.0\ref\Selection Sort.dll

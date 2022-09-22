@@ -1,0 +1,32 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\bin\Debug\net5.0\Bubble Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\refint\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\Bubble Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Bubble Sort\obj\Debug\net5.0\ref\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\bin\Debug\net5.0\Bubble Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\refint\Bubble Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\Bubble Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Bubble Sort\obj\Debug\net5.0\ref\Bubble Sort.dll

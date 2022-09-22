@@ -1,0 +1,32 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\bin\Debug\net5.0\Insertion Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\refint\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\Insertion Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Métodos de Ordenação\Insertion Sort\obj\Debug\net5.0\ref\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\bin\Debug\net5.0\Insertion Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\refint\Insertion Sort.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\Insertion Sort.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 06\Insertion Sort\obj\Debug\net5.0\ref\Insertion Sort.dll
