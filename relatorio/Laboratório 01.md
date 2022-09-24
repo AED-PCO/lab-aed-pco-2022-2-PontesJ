@@ -4,8 +4,10 @@ Alguns números de quatro algarismos possuem uma característica particular. Se 
 
 Número = 3025 
 
-Separando o número em dois grupos de dois algarismos temos o 30 e o 25 . 
+Separando o número em dois grupos de dois algarismos temos o 30 e o 25.
+
 A soma de 30 com 25 é igual a 55
+
 O Quadrado de 55 é igual a 3025.
  
 Faça um programa que mostre os números de 1000 a 9999 que possuem essa característica.
@@ -41,6 +43,7 @@ Por fim, se digitar 3, o programa irá dividir todos os números de 1 a 1000 por
 Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5 posições. Considere que nenhum dos vetores possui elementos repetidos.
 
 Crie um vetor resultante C que possua os elementos comuns entre A e B.
+
 Crie um vetor resultante D que contenha os elementos de A que não existam em B.
 
 <sup>**Explicação:** O programa percorre dois vetores e busca os elementos em comum entre eles, e os armazenam em outro vetor, além disso busca os elementos diferentes entre eles, e os armazenam em outro vetor. No fim imprimi os dois novos vetores indicando quais são os elementos em comum e os elementos diferentes.</sup>
@@ -73,7 +76,8 @@ Faça um programa que chame uma função capaz de calcular o Fatorial de um núm
 
 # Exercício 06
 
-Faça um programa que chame uma função capaz de calcular 𝑥^𝑦 , sendo 𝑥 e 𝑦 inteiros. 
+Faça um programa que chame uma função capaz de calcular 𝑥<sup>𝑦</sup> , sendo 𝑥 e 𝑦 inteiros.
+
 Utilize passagem de parâmetros por referência. 
 
 <sup>**Explicação:** O programa pede ao usuário para inserir o número que deseja saber seu exponencial, e o número que será o expoente. Logo depois, o programa chama uma função, enviando os dois números informados por referência, e logo depois multiplica o primeiro número por ele mesmo, o número de vezes informado pelo segundo número. Por fim, o programa principal imprime o resultado.</sup>
