@@ -1,7 +1,7 @@
 # Exercício 01
 
 Alguns números de quatro algarismos possuem uma característica particular. Se separamos esse número em dois grupos e os somarmos encontramos um outro número cujo quadrado é exatamente igual ao número fornecido anteriormente. Veja o exemplo:
- 
+
 Número = 3025 
 
 Separando o número em dois grupos de dois algarismos temos o 30 e o 25 . 
