@@ -20,7 +20,7 @@ Uma multiplicação pode ser vista como uma sequência de somas. Escreva um mét
 
 # Exercício 03
 
-Escreva um método recursivo que realize a potenciação entre dois números inteiros, A e B, recebidos por parâmetro. Seu método deve, portanto, retornar o resultado de A^B.
+Escreva um método recursivo que realize a potenciação entre dois números inteiros, A e B, recebidos por parâmetro. Seu método deve, portanto, retornar o resultado de A<sup>B</sup>.
 
 <sup>**Explicação:** O programa pede ao usuário para digitar dois números, um sendo a base e o outro o expoente, em seguida o programa imprime a operação, chamando a função. Na função se compara o segundo número com 1, e se forem iguais retorna o primeiro número, se não uma variável auxiliar receberá o primeiro número multiplicado pela chamada da função enviando o primeiro número e o segundo menos 1. E por fim, retorna a variável auxiliar.</sup>
 
