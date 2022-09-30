@@ -1,4 +1,4 @@
-# Laboratório 01
+# <a href="/codigo/Laboratório 01">Laboratório 01</a>
 
 ## <a href="/codigo\Laboratório 01\Exercício 01\Program.cs">Exercício 01</a>
 
@@ -24,7 +24,7 @@
 
 ![Gráfico - Laboratório 01 - Exercício 06](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2001%20-%20Exerc%C3%ADcio%2006.png)
 
-# Laboratório 02
+# <a href="/codigo/Laboratório 02">Laboratório 02</a>
 
 ## <a href="/codigo\Laboratório 02\Exercício 01\Program.cs">Exercício 01</a>
 
@@ -54,7 +54,7 @@
 
 ![Gráfico - Laboratório 02 - Exercício 06](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2002%20-%20Exerc%C3%ADcio%20Extra.png)
 
-# Laboratório 03
+# <a href="/codigo/Laboratório 03">Laboratório 03</a>
 
 ## <a href="/codigo\Laboratório 03\Exercício 01\Program.cs">Exercício 1</a>
 
