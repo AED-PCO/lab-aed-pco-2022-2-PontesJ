@@ -4,19 +4,22 @@ namespace Quick_Sort
 {
     class Program
     {
-        static void criaVetor(int []vetor) {
-            for (int i = 0; i < vetor.Length; i++) {
+        static void criaVetor(int[] vetor)
+        {
+            for (int i = 0; i < vetor.Length; i++)
+            {
                 Random rand = new Random();
-                vetor[i] = rand.Next(0,10);
+                vetor[i] = rand.Next(0, 10);
             }
         }
-        static void quickSort (int []vetor) {
-            
+        static void quickSort(int[] vetor)
+        {
+
         }
         static void Main(string[] args)
         {
             const int tam = 10;
-            int []vetor = new int[tam];
+            int[] vetor = new int[tam];
             criaVetor(vetor);
             Console.WriteLine("\n================================");
             Console.WriteLine("Quick Sort");
