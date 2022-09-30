@@ -12,7 +12,7 @@
 
 # <a href="/codigo/Laboratório 06/Quick Sort/Program.cs">Quick Sort</a>
 
-![Laboratório 06 - Quick Sort](/relatorio/img)
+![Laboratório 06 - Quick Sort](/relatorio/img/Gr%C3%A1fico%20-%20Laborat%C3%B3rio%2006%20-%20Quick%20Sort.png)
 
 # <a href="/codigo/Laboratório 06/Selection Sort/Program.cs">Selection Sort</a>
 
