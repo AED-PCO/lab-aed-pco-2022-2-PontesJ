@@ -9,10 +9,10 @@ namespace Shell_Sort
             for (int i = 0; i < vetor.Length; i++)
             {
                 Random rand = new Random();
-                vetor[i] = rand.Next(0, 10);
+                vetor[i] = rand.Next();
             }
         }
-        static void shellSort(int[] vetor)
+        static void shellSort(int[] vetor, ref int c, ref int t)
         {
             for (int gap = vetor.Length / 2; gap > 0; gap /= 2)
             {
@@ -20,14 +20,20 @@ namespace Shell_Sort
                 {
                     int aux = vetor[i];
                     int j;
-                    for (j = i; j >= gap && vetor[j - gap] > aux; j -= gap) vetor[j] = vetor[j - gap];
+                    c++;
+                    for (j = i; j >= gap && vetor[j - gap] > aux; j -= gap){
+                        t++;
+                        vetor[j] = vetor[j - gap];
+                    }
                     vetor[j] = aux;
+                    t++;
                 }
             }
         }
         static void Main(string[] args)
         {
-            const int tam = 10;
+            int c = 0, t = 0;
+            const int tam = 10000;
             int[] vetor = new int[tam];
             criaVetor(vetor);
             Console.WriteLine("\n================================");
@@ -35,9 +41,11 @@ namespace Shell_Sort
             Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.Write("\nOrdenado: ");
-            shellSort(vetor);
+            shellSort(vetor, ref c, ref t);
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.WriteLine("\n================================\n");
+            Console.WriteLine("Comparação: {0}\nTroca: {1}", c, t);
+
         }
     }
 }

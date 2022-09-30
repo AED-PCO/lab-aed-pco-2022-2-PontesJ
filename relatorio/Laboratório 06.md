@@ -20,4 +20,4 @@
 
 # <a href="/codigo/Laboratório 06/Shell Sort/Program.cs">Shell Sort</a>
 
-![Laboratório 06 - Shell Sort](/relatorio/img)
+![Laboratório 06 - Shell Sort](/relatorio/img/Gr%C3%A1fico%20-%20Laborat%C3%B3rio%2006%20-%20Shell%20Sort.png)
