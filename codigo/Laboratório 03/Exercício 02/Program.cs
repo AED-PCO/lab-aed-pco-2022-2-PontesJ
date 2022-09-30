@@ -55,8 +55,8 @@ namespace Exercício_02
             }
             Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
-            organizar(vetor, 0, 5);
-            Console.Write("\nOrganizado: ");
+            organizar(vetor, 0, tam - 1);
+            Console.Write("\nOrdenado: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write(vetor[i] + " ");
             Console.WriteLine("\n================================\n");
         }

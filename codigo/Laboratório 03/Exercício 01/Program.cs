@@ -55,7 +55,7 @@ namespace Exercício_01
             Console.WriteLine("Exercício 01");
             Console.Write("\nO vetor: ");
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
-            Console.Write("\nOrganizado: ");
+            Console.Write("\nOrdenado: ");
             organizar(vetor, 0, vetor.Length - 1);
             for (int i = 0; i < vetor.Length; i++) Console.Write("{0} ", vetor[i]);
             Console.WriteLine("\n================================\n");
