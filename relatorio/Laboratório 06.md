@@ -9,6 +9,13 @@
 
 <a href="/codigo/Laboratório 06/Bubble Sort/Program.cs"><img src="/relatorio/img/Gr%C3%A1fico%20-%20Laborat%C3%B3rio%2006%20-%20Bubble%20Sort.png" alt="Laboratório 06 - Bubble Sort"><a>
 
+# <a href="/codigo/Laboratório 06/Contagem/Program.cs">Contagem</a>
+
+- Em uma primeira passada, conta quantos dados de cada valor esperado existem.
+- Na segunda passada, aloca os dados de acordo com a contagem.
+
+**<a href="/codigo/Laboratório 06/Contagem/Program.cs">Resolução</a>**
+
 # <a href="/codigo/Laboratório 06/Insertion Sort/Program.cs">Insertion Sort</a>
 
 - Algoritmo que examina as posições ***anteriores*** à posição de referência, procurando o lugar correto para ***inserir*** o valor nesta posição.
