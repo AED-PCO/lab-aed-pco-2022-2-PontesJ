@@ -26,7 +26,7 @@ Dividir para conquistar.
     - Dividir o problema em subproblemas pequenos.
     - Resolver cada subproblema.
     - Agrupar as soluções do subproblema para a resposta.
-<br>
+
 - Algoritmo de ordenação baseado no princípio da **intercalação** (***merge***) de dados.
 
 - Ideia básica: 
@@ -39,7 +39,7 @@ Dividir para conquistar.
 # <a href="/codigo/Laboratório 06/Quick Sort/Program.cs">Quick Sort</a>
 
 - Dividir o problema da ordenação em ordenações de conjuntos menores – ***divisão e conquista.***
-<br>
+
 - Premissa do quicksort: a partir de um elemento ***pivô***, criar um conjunto de elementos maiores e outro de elementos menores que o pivô
 - Algoritmo geral:
     - Escolha o início e o fim da **partição.**
