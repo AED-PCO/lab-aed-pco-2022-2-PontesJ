@@ -58,16 +58,16 @@
 
 ## <a href="/codigo\Laboratório 03\Exercício 01\Program.cs">Exercício 1</a>
 
-![Gráfico - Laboratório 1 - Exercício 1](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2001.png)
+![Gráfico - Laboratório 03 - Exercício 01](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2003.png)
 
 ## <a href="/codigo\Laboratório 03\Exercício 02\Program.cs">Exercício 02</a>
 
-![Gráfico - Laboratório 02 - Exercício 02](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2002.png)
+![Gráfico - Laboratório 02 - Exercício 02](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2004.png)
 
 ## <a href="/codigo\Laboratório 03\Exercício 03\Program.cs">Exercício 03</a>
 
-![Gráfico - Laboratório 03 - Exercício 03](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2003.png)
+![Gráfico - Laboratório 1 - Exercício 3](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2001.png)
 
 ## <a href="/codigo\Laboratório 03\Exercício 04\Program.cs">Exercício 04</a>
 
-![Gráfico - Laboratório 03 - Exercício 04](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2004.png)
+![Gráfico - Laboratório 03 - Exercício 04](/relatorio/img/Gr%C3%A1fico%20-%20Laboratório%2003%20-%20Exerc%C3%ADcio%2002.png)
