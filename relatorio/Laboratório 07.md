@@ -10,7 +10,7 @@ d. Descreva quais as operações relevantes.
 
 ### <a href="codigo\Laboratório 07\Exercício 01\Program.cs">Resolução:</a>
 
-Modele: O programa irá pedir ao usuário que digite um texto, logo depois se separa as palavras do texto. Em seguida o arquivo "arq1.txt" é aberto, e sua primeira linha é lida. Depois um laço de repetição é criado até que chegue ao final do arquivo, enquanto não chega, as palavras da linha atual do arquivo são separadas e em seguida, comparadas com as palavras digitadas pelo usuário, se forem iguais, uma variável contadora recebe acréscimo, além disso, outra variável recebe a quantidade de palavras da linha atual. Logo depois, passa para a próxima linha.<br>
+**Modele:** O programa irá pedir ao usuário que digite um texto, logo depois se separa as palavras do texto. Em seguida o arquivo "arq1.txt" é aberto, e sua primeira linha é lida. Depois um laço de repetição é criado até que chegue ao final do arquivo, enquanto não chega, as palavras da linha atual do arquivo são separadas e em seguida, comparadas com as palavras digitadas pelo usuário, se forem iguais, uma variável contadora recebe acréscimo, além disso, outra variável recebe a quantidade de palavras da linha atual. Logo depois, passa para a próxima linha.<br>
 Ao sair do laço, o arquivo é fechado e é impresso a quantidade de termos iguais (primeira variável contadora) e a quantidade de termos diferente (segunda variável contadora – primeira variável contadora).
 
 
@@ -38,7 +38,7 @@ Console.WriteLine("Existem {0} termos iguais", iguais);
 Console.WriteLine("Existem {0} termos diferentes", diferente - iguais);
 ```
 
-Complexidade: A complexidade será de O(n³), já que, temos um laço para a quantidade de linhas do arquivo (n), dentro dele outro para a quantidade de termos no texto do usuário (m) e dentro dele outro para a quantidade de termos em cada linha do arquivo (l), com isso temos: $n \times m \times l$.<br>
+**Complexidade:** A complexidade será de O(n³), já que, temos um laço para a quantidade de linhas do arquivo (n), dentro dele outro para a quantidade de termos no texto do usuário (m) e dentro dele outro para a quantidade de termos em cada linha do arquivo (l), com isso temos: $n \times m \times l$.<br>
 Se considerarmos que essas variáveis podem receber os mesmos valores, temos: $n \times n \times n = n³$.
 
 d. As operações de comparação, soma e atribuição são as mais relevantes.
@@ -88,7 +88,7 @@ Observações: considere que o arquivo "entrada.txt" contenha no mínimo uma lin
 
 ### <a href="codigo\Laboratório 07\Exercício 03\Program.cs">Resolução:</a>
 
-Modele: O programa irá abrir os arquivos "entrada.txt" e "saida.txt", logo depois a primeira linha do arquivo é lida, enquanto não se chega no final do arquivo um laço irá ocorrer. Nesse laço uma variável receberá os caracteres da linha atual ao contrário, em seguida, os adiciona no arquivo de "saida.txt". Logo depois, passa para a próxima linha.
+**Modele:** O programa irá abrir os arquivos "entrada.txt" e "saida.txt", logo depois a primeira linha do arquivo é lida, enquanto não se chega no final do arquivo um laço irá ocorrer. Nesse laço uma variável receberá os caracteres da linha atual ao contrário, em seguida, os adiciona no arquivo de "saida.txt". Logo depois, passa para a próxima linha.
 Por fim, ao sair do laço, ambos arquivos são fechados.
 
 
@@ -112,7 +112,7 @@ escrever.Close();
 ler.Close();
 ```
 
-Complexidade: A complexidade será de O(n²), já que, temos um laço para a quantidade de linhas do arquivo (n) e dentro dele, outros dois para a quantidade de termos em cada linha do arquivo (2m), com isso temos: $n \times 2m$.<br>
+**Complexidade:** A complexidade será de O(n²), já que, temos um laço para a quantidade de linhas do arquivo (n) e dentro dele, outros dois para a quantidade de termos em cada linha do arquivo (2m), com isso temos: $n \times 2m$.<br>
 Considerando que essas variáveis podem receber os mesmos valores, temos: $n \times 2n = 2n²$.
 
 
