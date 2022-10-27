@@ -8,7 +8,7 @@ b. Peça para o usuário inserir um texto no terminal/console.<br>
 c. Compare o texto escrito pelo usuário e o texto lido no arquivo, e escreva na tela quantos termos "IGUAIS" e "DIFERENTE".<br>
 d. Descreva quais as operações relevantes.
 
-### <a href="codigo\Laboratório 07\Exercício 01\Program.cs">Resolução:</a>
+### <a href="/codigo/Laboratório 07/Exercício 01/Program.cs">Resolução:</a>
 
 **Modele:** O programa irá pedir ao usuário que digite um texto, logo depois se separa as palavras do texto. Em seguida o arquivo "arq1.txt" é aberto, e sua primeira linha é lida. Depois um laço de repetição é criado até que chegue ao final do arquivo, enquanto não chega, as palavras da linha atual do arquivo são separadas e em seguida, comparadas com as palavras digitadas pelo usuário, se forem iguais, uma variável contadora recebe acréscimo, além disso, outra variável recebe a quantidade de palavras da linha atual. Logo depois, passa para a próxima linha.<br>
 Ao sair do laço, o arquivo é fechado e é impresso a quantidade de termos iguais (primeira variável contadora) e a quantidade de termos diferente (segunda variável contadora – primeira variável contadora).
@@ -61,7 +61,7 @@ Int funcRec1(int a){
 }
 ```
 
-### <a href="codigo\Laboratório 07\Exercício 02\Program.cs">Resolução:</a>
+### <a href="/codigo/Laboratório 07/Exercício 02/Program.cs">Resolução:</a>
 
 a. A função irá parar quando a variável "a" for menor ou igual a 1.
 
@@ -86,7 +86,7 @@ Exemplo de entrada e saída esperados:
 
 Observações: considere que o arquivo "entrada.txt" contenha no mínimo uma linha de conteúdo.
 
-### <a href="codigo\Laboratório 07\Exercício 03\Program.cs">Resolução:</a>
+### <a href="/codigo/Laboratório 07/Exercício 03/Program.cs">Resolução:</a>
 
 **Modele:** O programa irá abrir os arquivos "entrada.txt" e "saida.txt", logo depois a primeira linha do arquivo é lida, enquanto não se chega no final do arquivo um laço irá ocorrer. Nesse laço uma variável receberá os caracteres da linha atual ao contrário, em seguida, os adiciona no arquivo de "saida.txt". Logo depois, passa para a próxima linha.
 Por fim, ao sair do laço, ambos arquivos são fechados.
@@ -128,7 +128,7 @@ b. Qual algoritmo de ordenação utilizaria? Justifique.<br>
 c. Descreva quais as operações relevantes.<br>
 d. Demonstre a viabilidade da sua solução para 10 registros.
 
-### <a href="codigo\Laboratório 07\Exercício 04\Program.cs">Resolução:</a>
+### <a href="/codigo/Laboratório 07/Exercício 04/Program.cs">Resolução:</a>
 
 a. O especialista escolheu um bom algoritmo, já que, ele é estável e apresenta uma boa complexidade. Contudo, não é o melhor.
 
@@ -162,7 +162,7 @@ int funcao (int a, int v[7])
 }
 ```
 
-### <a href="codigo\Laboratório 07\Exercício 05\Program.cs">Resolução:</a>
+### <a href="/codigo/Laboratório 07/Exercício 05/Program.cs">Resolução:</a>
 
 a | Ação
 -|-
