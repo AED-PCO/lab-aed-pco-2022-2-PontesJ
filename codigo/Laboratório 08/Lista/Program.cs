@@ -4,18 +4,19 @@ namespace Lista
 {
     class Program
     {
-        static void adicionar(int[] lista, int flag, ref int quant, int n) 
+        static void adicionar(int[] lista, int flag, ref int quant, int n)
         {
-            if (flag > quant) {
+            if (flag > quant)
+            {
                 flag = quant;
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("Existem espaços livres, posição redefinida para {0}°", flag + 1);
                 Console.ResetColor();
             }
-            if (flag < quant) {
+            else if (flag < quant)
                 for (int i = quant; i > flag; i--)
                     lista[i] = lista[i - 1];
-            }
+
             lista[flag] = n;
             quant++;
         }
@@ -77,7 +78,7 @@ namespace Lista
         static void Main(string[] args)
         {
             char repetir;
-            int[] lista = new int[tam] {1, 2, 3, 4, 5, 0 , 0 , 0 , 0, 0};
+            int[] lista = new int[tam] { 1, 2, 3, 4, 5, 0, 0, 0, 0, 0 };
             int quant = 5;
             imprime(lista, quant);
             do
@@ -94,7 +95,7 @@ namespace Lista
                         Console.ResetColor();
                     }
                     else
-                    {   
+                    {
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write("Digite um número para adicionar na lista: ");
                         Console.ResetColor();
@@ -131,7 +132,8 @@ namespace Lista
                         Console.Write("Qual número deseja remover: ");
                         int n = int.Parse(Console.ReadLine());
                         int num = procurar(lista, 0, quant, n);
-                        if (num == -1) {
+                        if (num == -1)
+                        {
                             Console.ForegroundColor = ConsoleColor.DarkYellow;
                             Console.WriteLine("O número {0} não está presente na lista", n);
                             Console.ResetColor();
