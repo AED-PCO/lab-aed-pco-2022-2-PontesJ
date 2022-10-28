@@ -51,7 +51,7 @@ namespace Pilha
         static void Main(string[] args)
         {
             char repetir;
-            int[] pilha = new int[tam] {1, 2, 3, 4, 5, 0 , 0 , 0 , 0, 0};
+            int[] pilha = new int[tam] { 1, 2, 3, 4, 5, 0, 0, 0, 0, 0 };
             int quant = 5;
             imprime(pilha, quant);
             do
