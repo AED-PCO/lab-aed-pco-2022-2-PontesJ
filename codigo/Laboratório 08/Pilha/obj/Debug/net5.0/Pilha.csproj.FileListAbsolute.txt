@@ -1,0 +1,16 @@
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.exe
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.deps.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.dev.json
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\ref\Pilha.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\bin\Debug\net5.0\Pilha.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.csproj.AssemblyReference.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfoInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfo.cs
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\ref\Pilha.dll
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.pdb
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 08\Pilha\obj\Debug\net5.0\Pilha.genruntimeconfig.cache
