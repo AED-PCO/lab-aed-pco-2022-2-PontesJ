@@ -28,17 +28,11 @@ namespace Lista
             quant--;
             return n;
         }
-        static int procurar(int[] vetor, int inicio, int tam, int numero)
+        static int procurar(int[] vetor, int tam, int numero)
         {
-            if (inicio <= tam)
-            {
-                int metade = inicio + (tam - inicio) / 2;
-                if (vetor[metade] == numero)
-                    return metade + 1;
-                if (vetor[metade] > numero)
-                    return procurar(vetor, inicio, metade - 1, numero);
-                return procurar(vetor, metade + 1, tam, numero);
-            }
+            for (int i = 0; i < tam; i++)
+                if (vetor[i] == numero)
+                    return i;
             return -1;
         }
         static char validar(char c, int n)
@@ -131,7 +125,7 @@ namespace Lista
                     {
                         Console.Write("Qual número deseja remover: ");
                         int n = int.Parse(Console.ReadLine());
-                        int num = procurar(lista, 0, quant, n);
+                        int num = procurar(lista, quant, n);
                         if (num == -1)
                         {
                             Console.ForegroundColor = ConsoleColor.DarkYellow;
@@ -141,7 +135,7 @@ namespace Lista
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("O número {0} foi removido", remover(lista, num - 1, ref quant));
+                            Console.WriteLine("O número {0} foi removido", remover(lista, num, ref quant));
                             Console.ResetColor();
                             imprime(lista, quant);
                         }
