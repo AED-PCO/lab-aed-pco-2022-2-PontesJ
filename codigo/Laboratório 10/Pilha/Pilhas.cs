@@ -1,32 +1,33 @@
 using System;
 
-namespace Fila
+namespace Pilha
 {
-    class Filas
+    class Pilhas
     {
-        private Capsula primeiro, ultimo;
-        public Filas()
+        private Capsula primeiro;
+        public Pilhas()
         {
-            primeiro = new Capsula();
-            ultimo = primeiro;
+            primeiro = null;
         }
         public void adicionar(int num)
         {
-            ultimo.apontador = new Capsula(num);
-            ultimo = ultimo.apontador;
+            Capsula aux = new Capsula(num);
+            aux.apontador = primeiro;
+            primeiro = aux;
+            aux = null;
         }
         public int remover()
         {
-            if (primeiro == ultimo)
+            if (primeiro == null)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("Fila Vazia");
+                Console.WriteLine("Pilha Vazia");
                 Console.ResetColor();
                 return -1;
             }
+            int sair = primeiro.numero;
             Capsula aux = primeiro;
             primeiro = primeiro.apontador;
-            int sair = primeiro.numero;
             aux.apontador = null;
             aux = null;
             return sair;
@@ -35,12 +36,17 @@ namespace Fila
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write("A fila: ");
-
-            for (Capsula i = primeiro.apontador; i != null; i = i.apontador)
-                Console.Write("{0} ", i.numero);
-
+            imprimi(primeiro);
             Console.WriteLine();
             Console.ResetColor();
+        }
+        private void imprimi(Capsula primeiro)
+        {
+            if (primeiro != null)
+            {
+                imprimi(primeiro.apontador);
+                Console.Write("{0} ", primeiro.numero);
+            }
         }
     }
 }
