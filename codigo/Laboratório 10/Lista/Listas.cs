@@ -19,12 +19,12 @@ namespace Lista
             }
             return aux;
         }
-        public void adicionar(int num)
+        public void adicionar(string num)
         {
             ultimo.apontador = new Capsula(num);
             ultimo = ultimo.apontador;
         }
-        public void adicionar(int num, int pos)
+        public void adicionar(string num, int pos)
         {
             pos--;
             if (pos < 0 || pos > tam())
@@ -53,15 +53,15 @@ namespace Lista
             else
                 return 0;
         }
-        public int remover(int num)
+        public string remover(string num)
         {
             int pos = busca(num);
             if (pos < 0)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("Posição Invalida");
+                Console.WriteLine("Elemento Não Encontrado");
                 Console.ResetColor();
-                return -1;
+                return "";
             }
             else
             {
@@ -71,14 +71,14 @@ namespace Lista
                     aux = aux.apontador;
                 }
                 Capsula aux2 = aux.apontador;
-                int sair = aux2.numero;
+                string sair = aux2.numero;
                 aux.apontador = aux2.apontador;
                 aux2.apontador = null;
                 aux = aux2 = null;
                 return sair;
             }  
         }
-        private int busca(int num)
+        private int busca(string num)
         {
             int aux = 0;
             for (Capsula i = primeiro.apontador; i != null; i = i.apontador)

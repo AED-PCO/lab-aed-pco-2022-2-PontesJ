@@ -4,11 +4,11 @@ namespace Fila
 {
     class Capsula
     {
-        public int numero;
+        public string numero;
         public Capsula apontador;
 
         public Capsula() { }
-        public Capsula(int numero)
+        public Capsula(string numero)
         {
             this.numero = numero;
             apontador = null;

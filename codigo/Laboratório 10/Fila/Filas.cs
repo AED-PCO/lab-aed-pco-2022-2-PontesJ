@@ -10,23 +10,23 @@ namespace Fila
             primeiro = new Capsula();
             ultimo = primeiro;
         }
-        public void adicionar(int num)
+        public void adicionar(string num)
         {
             ultimo.apontador = new Capsula(num);
             ultimo = ultimo.apontador;
         }
-        public int remover()
+        public string remover()
         {
             if (primeiro == ultimo)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Fila Vazia");
                 Console.ResetColor();
-                return -1;
+                return "";
             }
             Capsula aux = primeiro;
             primeiro = primeiro.apontador;
-            int sair = primeiro.numero;
+            string sair = primeiro.numero;
             aux.apontador = null;
             aux = null;
             return sair;

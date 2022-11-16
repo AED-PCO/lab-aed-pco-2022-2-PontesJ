@@ -16,9 +16,9 @@ namespace Lista
                 if (valid == 1)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.Write("Digite o número: ");
+                    Console.Write("Digite algo: ");
                     Console.ResetColor();
-                    int num = int.Parse(Console.ReadLine());
+                    string num = Console.ReadLine();
                     Console.Write("Deseja adicionar em uma posição especifica? [1 = Sim / 2 = Não] ");
                     int val = int.Parse(Console.ReadLine());
                     if (val == 1)
@@ -49,12 +49,12 @@ namespace Lista
                     }
                     else
                     {
-                        Console.Write("Qual número deseja remover? ");
-                        int n = lista.remover(int.Parse(Console.ReadLine()));
-                        if (n != -1)
+                        Console.Write("Qual elemento deseja remover? ");
+                        string n = lista.remover(Console.ReadLine());
+                        if (n != "")
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("O número {0} foi removido", n);
+                            Console.WriteLine("O elemento '{0}' foi removido", n);
                             Console.ResetColor();
                         }
                         lista.imprimi();

@@ -9,23 +9,23 @@ namespace Pilha
         {
             primeiro = null;
         }
-        public void adicionar(int num)
+        public void adicionar(string num)
         {
             Capsula aux = new Capsula(num);
             aux.apontador = primeiro;
             primeiro = aux;
             aux = null;
         }
-        public int remover()
+        public string remover()
         {
             if (primeiro == null)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Pilha Vazia");
                 Console.ResetColor();
-                return -1;
+                return "";
             }
-            int sair = primeiro.numero;
+            string sair = primeiro.numero;
             Capsula aux = primeiro;
             primeiro = primeiro.apontador;
             aux.apontador = null;

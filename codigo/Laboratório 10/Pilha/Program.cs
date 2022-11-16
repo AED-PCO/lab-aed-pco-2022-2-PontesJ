@@ -16,18 +16,18 @@ namespace Pilha
                 if (valid == 1)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.Write("Digite o número: ");
+                    Console.Write("Digite algo: ");
                     Console.ResetColor();
-                    fila.adicionar(int.Parse(Console.ReadLine()));
+                    fila.adicionar(Console.ReadLine());
                     fila.imprimi();
                 }
                 else if (valid == 2)
                 {
-                    int n = fila.remover();
-                    if (n != -1)
+                    string n = fila.remover();
+                    if (n != "")
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("O número {0} foi removido", n);
+                        Console.WriteLine("O elemento '{0}' foi removido", n);
                         Console.ResetColor();
                         fila.imprimi();
                     }
