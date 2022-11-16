@@ -94,7 +94,7 @@ namespace Lista
         public void imprimi()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Write("A fila: ");
+            Console.Write("A lista: ");
 
             for (Capsula i = primeiro.apontador; i != null; i = i.apontador)
                 Console.Write("{0} ", i.numero);

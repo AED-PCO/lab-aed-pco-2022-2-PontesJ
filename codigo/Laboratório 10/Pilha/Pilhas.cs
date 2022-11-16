@@ -35,7 +35,7 @@ namespace Pilha
         public void imprimi()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Write("A fila: ");
+            Console.Write("A pilha: ");
             imprimi(primeiro);
             Console.WriteLine();
             Console.ResetColor();
