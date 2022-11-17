@@ -15,3 +15,9 @@ Faça uma lista dinâmica usando classes.
 Faça uma pilha dinâmica usando classes.
 
 **<a href="/codigo/Laboratório 10/Pilha">Resolução</a>**
+
+# Notação Polonesa Reversa (Pós-Fixa)
+
+Implemente um programa que receba uma expressão matemática do teclado e dê seu resultado 
+
+**<a href="/codigo/Laboratório 10/Calculadora Polonesa">Resolução</a>**
