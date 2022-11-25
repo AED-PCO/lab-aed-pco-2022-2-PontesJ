@@ -72,6 +72,7 @@ namespace Calculadora_Polonesa
             {
                 fila.adicionar(pilha.remover()); // Remove o topo da pilha e adiciona na fila
             }
+            fila.imprimi();
         }
         static void calculo(Filas fila, Pilhas pilha)
         {
@@ -123,7 +124,7 @@ namespace Calculadora_Polonesa
             Pilhas pilha = new Pilhas();
             int erro = 0;
             Console.ForegroundColor = ConsoleColor.Magenta;
-
+            
             Console.WriteLine("Calculadora Polonesa");
             Console.ResetColor();
             Console.Write("Digite a expressão: ");
