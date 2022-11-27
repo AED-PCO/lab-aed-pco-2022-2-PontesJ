@@ -26,12 +26,28 @@ namespace Lista
         }
         public void adicionar(string num, int pos) // Função para adicionar elementos na lista, em determinada posição
         {
+            int tamanho = tam();
             pos--;                                 // Valor na forma de maquina
-            if (pos < 0 || pos > tam())            // Se a posição for menor que 0 ou maior que o tamanho da lista, imprimi um erro
+            if (pos < 0 || pos > tamanho)            // Se a posição for menor que 0 ou maior que o tamanho da lista, imprimi um erro
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Valor Invalido");
                 Console.ResetColor();
+            }
+            else if (pos == 0) // Add Início
+            {
+                Capsula aux = new Capsula(num);
+                aux.apontador = primeiro.apontador;
+                primeiro.apontador = aux;
+                if (primeiro == ultimo)
+                {
+                    ultimo = aux;
+                }
+                aux = null;
+            }
+            else if (pos == tamanho) // Add Fim
+            {
+                adicionar(num);
             }
             else                                 // Senão
             {
@@ -63,6 +79,25 @@ namespace Lista
                 Console.WriteLine("Elemento Não Encontrado");
                 Console.ResetColor();
                 return "";
+            }
+            else if (pos == 0) // Remover Início
+            {
+                Capsula aux = primeiro;
+                primeiro = primeiro.apontador;
+                string sair = primeiro.valor;
+                aux.apontador = null;
+                aux = null;
+                return sair;
+            }
+            else if (pos == (tam() - 1)) // Remover Fim
+            {
+                Capsula aux;
+                for (aux = primeiro; aux.apontador != ultimo; aux = aux.apontador);
+                string sair = ultimo.valor;
+                ultimo = aux;
+                ultimo.apontador = null;   
+                aux = null;
+                return sair;
             }
             else                                // Senão
             {
