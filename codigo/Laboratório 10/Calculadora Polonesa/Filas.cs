@@ -34,7 +34,7 @@ namespace Calculadora_Polonesa
         public void imprimi()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.Write("A fila: ");
+            Console.Write("Pós-Fixa: ");
 
             for (Capsula i = primeiro.apontador; i != null; i = i.apontador)
                 Console.Write(i.valor);

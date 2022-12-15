@@ -3,7 +3,6 @@ D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\De
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\Debug\net5.0\Lista.dll
-D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\Debug\net5.0\ref\Lista.dll
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\bin\Debug\net5.0\Lista.pdb
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\De
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\ref\Lista.dll
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\Lista.pdb
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Lista\obj\Debug\net5.0\refint\Lista.dll

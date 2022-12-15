@@ -7,6 +7,8 @@ namespace Fila
         static void Main(string[] args)
         {
             Console.Clear();
+            Console.WriteLine("================================");
+            Console.WriteLine("Fila");
             Filas fila = new Filas();
             int valid;
             do
@@ -41,6 +43,7 @@ namespace Fila
             } while (valid != 3);
 
             fila.imprimi();
+            Console.WriteLine("================================\n");
         }
     }
 }

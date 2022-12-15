@@ -3,7 +3,6 @@ D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora 
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\bin\Debug\net5.0\Calculadora Polonesa.runtimeconfig.json
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\bin\Debug\net5.0\Calculadora Polonesa.runtimeconfig.dev.json
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\bin\Debug\net5.0\Calculadora Polonesa.dll
-D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\bin\Debug\net5.0\ref\Calculadora Polonesa.dll
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\bin\Debug\net5.0\Calculadora Polonesa.pdb
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\Calculadora Polonesa.csproj.AssemblyReference.cache
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\Calculadora Polonesa.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora 
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\ref\Calculadora Polonesa.dll
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\Calculadora Polonesa.pdb
 D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\Calculadora Polonesa.genruntimeconfig.cache
+D:\GitHub Desktop\lab-aed-pco-2022-2-PontesJ\codigo\Laboratório 10\Calculadora Polonesa\obj\Debug\net5.0\refint\Calculadora Polonesa.dll

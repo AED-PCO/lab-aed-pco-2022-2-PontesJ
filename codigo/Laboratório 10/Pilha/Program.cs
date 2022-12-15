@@ -7,6 +7,8 @@ namespace Pilha
         static void Main(string[] args)
         {
             Console.Clear();
+            Console.WriteLine("================================");
+            Console.WriteLine("Pilha");
             Pilhas fila = new Pilhas();
             int valid;
             do
@@ -41,6 +43,7 @@ namespace Pilha
             } while (valid != 3);
 
             fila.imprimi();
+            Console.WriteLine("================================\n");
         }
     }
 }

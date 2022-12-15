@@ -7,6 +7,8 @@ namespace Lista
         static void Main(string[] args)
         {
             Console.Clear();
+            Console.WriteLine("================================");
+            Console.WriteLine("Lista");
             Listas lista = new Listas();
             int valid;
             do
@@ -69,6 +71,7 @@ namespace Lista
             } while (valid != 3);
 
             lista.imprimi();
+            Console.WriteLine("================================\n");
         }
     }
 }
