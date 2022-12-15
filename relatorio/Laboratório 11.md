@@ -2,7 +2,7 @@
 
 Faça uma lista duplamente encadeada dinâmica.
 
-<kbd><a href="/codigo/Laboratório 11/Exercício 01/Program.cs"><img src="/relatorio/img/Laboratório 11 - Exercício 01.png" alt="Laboratório 11 - Exercício 01"><a></kbd>
+<kbd><a href="/codigo/Laboratório 11/Exercício 01"><img src="/relatorio/img/Laboratório 11 - Exercício 01.png" alt="Laboratório 11 - Exercício 01"><a></kbd>
 
 **<a href="/codigo/Laboratório 11/Exercício 01">Código</a>**
 
@@ -14,7 +14,7 @@ Faça uma lista circular estática.
 
 <kbd><a href="/codigo/Laboratório 11/Exercício 02/Program.cs"><img src="/relatorio/img/Laboratório 11 - Exercício 02.png" alt="Laboratório 11 - Exercício 02"><a></kbd>
 
-**<a href="/codigo/Laboratório 11/Exercício 02">Código</a>**
+**<a href="/codigo/Laboratório 11/Exercício 02/Program.cs">Código</a>**
 
 ---
 
@@ -22,6 +22,6 @@ Faça uma lista circular estática.
 
 Faça uma lista circular dinâmica.
 
-<kbd><a href="/codigo/Laboratório 11/Exercício 03/Program.cs"><img src="/relatorio/img/Laboratório 11 - Exercício 03.png" alt="Laboratório 11 - Exercício 03"><a></kbd>
+<kbd><a href="/codigo/Laboratório 11/Exercício 03"><img src="/relatorio/img/Laboratório 11 - Exercício 03.png" alt="Laboratório 11 - Exercício 03"><a></kbd>
 
 **<a href="/codigo/Laboratório 11/Exercício 03">Código</a>**
